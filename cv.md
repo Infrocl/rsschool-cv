@@ -30,7 +30,7 @@ To learn more about my working expperience check this [video](https://youtu.be/d
 
 
 # Education
-It's hard to study, but remember [the truth](/img/mem.jpg))
+It's hard to study, but remember ![the truth](/img/mem.jpg)
 
 
 ****
