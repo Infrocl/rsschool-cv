@@ -18,7 +18,7 @@ I like to learn new things and am not afraid of difficulties. Trying to beat ___
 |-------------|--------------------------------------|
 | Java        | I know it's not the same as JavaScript! |
 | Spring      | The most beautiful season :3         |
-| PostgreSQL  | >The best non-relational database    |
+| PostgreSQL  | The best non-relational database    |
 | HTML/CSS    | This is the base                     |
 
 # Code example 
@@ -30,7 +30,7 @@ To learn more about my working expperience check this [video](https://youtu.be/d
 
 
 # Education
-It's hard to study, but remember ![/img/mem.jpg](the truth)
+It's hard to study, but remember [the truth](/img/mem.jpg))
 
 
 ****
